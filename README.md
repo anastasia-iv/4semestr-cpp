@@ -1,1 +1,1 @@
-CMC MSU c++ practicum
+**CMC MSU c++ practicum**
